@@ -5,7 +5,7 @@ public class Lab056 {
         short s= 10;
         char c= 'A'; //65
         System.out.println(s+c);
-
+        System.out.println(c+s);
         System.out.println(s);
         System.out.println(c);
     }
